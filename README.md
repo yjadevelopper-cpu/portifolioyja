@@ -1,2 +1,0 @@
-# portifolioyja
-YJA Developer
